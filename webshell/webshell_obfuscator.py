@@ -1,7 +1,6 @@
 import base64
 
 
-
 def generate_encoded_webshell(infile):
     # scaffolding is:
         # '[b64 string chunk of len 88]' ,
