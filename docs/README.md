@@ -1,0 +1,3 @@
+# PancakesCon 4: Compromised Website Village
+
+Welcome to PancakesCon 4! This village will walk you through the investigation of a realistic website compromise. Using the evidence and tools provided, you'll investigate **how** our victim site was compromised, **what** tools the attackers used, and **when** then attack took place. Then, we'll discuss what could have prevented the compromise, and how to harden the server going forward.
