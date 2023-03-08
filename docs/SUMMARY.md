@@ -7,3 +7,4 @@
 * [5: Syslog/Sysmon Files](5-syslog.md)
 * [6: Webroot Files Revisited](6-files.md)
 * [7: Conclusion](7-conclusion.md)
+* [8: Answers](8-answers.md)
