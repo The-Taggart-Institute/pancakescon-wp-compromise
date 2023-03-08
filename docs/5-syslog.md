@@ -34,7 +34,7 @@ Take a look in the webroot files to see if you can find the second instance of t
 
 **What was the nickname of the file that was deleted?**
 
-We've now seen a couple of moves/downloads to files within `wp-content`. **Why do you think these weren't used?**
+**We've now seen a couple of moves/downloads to files within `wp-content`. Why do you think these weren't used?**
 
 _Hint: If you go back to the Nginx logs, there's an HTTP error code that may be revealing!_
 
