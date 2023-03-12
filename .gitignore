@@ -1,4 +1,4 @@
 apache-logs/*
 wordpress/wordpress_data/*
 */node_modules/
-docs/_book/
+*_book/
