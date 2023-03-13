@@ -46,7 +46,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: the-taggart-institute.github.io
+      url: https://the-taggart-institute.github.io
     runs-on: ubuntu-latest
     needs: build
     steps:
