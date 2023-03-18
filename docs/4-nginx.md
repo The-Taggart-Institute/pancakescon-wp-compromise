@@ -9,7 +9,7 @@ In Elastic, find the the `data_stream.dataset` field in the field list (it shoul
 Then, make sure we're looking at logs for the last `20` days.
 In the timechart of events, one day should look a little larger. Make a note of it.
 
-Let's get some useful columns. If we expand just one of th documents from this dataset, we'll see quite a few fields. The good stuff doesn't start until `h`. Using either the field list on the left, or the toggle buttons in the document itself, display these fields in our document list:
+Let's get some useful columns. If we expand just one of the documents from this dataset, we'll see quite a few fields. The good stuff doesn't start until `h`. Using either the field list on the left, or the toggle buttons in the document itself, display these fields in our document list:
 
 ![column toggle](/img/elastic-http-toggle.png)
 
