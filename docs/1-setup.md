@@ -12,7 +12,7 @@ To complete the lab, you'll need the following:
 
 We'll be using VSCode as our text editor of choice in this lab. You can use any editor you like, but the examples will be in VSCode. 
 
-Don't worry; no _actual_ malware is in the infected webroot! Once downloaded, unzip the file.
+If you download the files to your own Windows system, Windows Defender may alert on certain files (and spoil the lab). But don't worry; no _actual_ malware is in the infected webroot! Once downloaded, unzip the file.
 
 
 ## Managed Environment
