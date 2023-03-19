@@ -21,7 +21,7 @@ If you download the files to your own Windows system, Windows Defender may alert
 
 We're excited to provide a new (experimental) lab environment for this village: a whole desktop environment accessible directly from your browser.
 
-To request access to the lab, message **Michael Taggart** in the Village Slack channel. You'll be DMed a link and credentials to access your desktop environment, which will be available for 2 hours.
+To request access to the lab, message say **"Lab Access Request"** in the Village Slack channel.A TTI volunteer will DM you a link and credentials to access your desktop environment, which will be available for 2 hours. Please note that lab access slots are limited, so if there is high demand, there may be a wait.
 
 Your desktop has VSCode already installed, and the necessary webroot files are on the Desktop.
 
