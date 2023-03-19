@@ -13,6 +13,10 @@ With your notes in hand, try to answer the big questions from the beginning of t
 
 If you're interested, we've provided an [answers](8-answers.md) page you can check against your own work. We've included answers to the questions we asked along the way as well.
 
+## Feedback
+
+Please consider filling out this [brief form](https://forms.gle/5u4i6zDAaZxcNAsa8) to let us know how you liked the lab! We'd love to make these experiences even better in the future.
+
 ## Thank you!
 
 We hope you've enjoyed this lab as much as we enjoyed putting it together. If you did, you may enjoy some of the other learning materials available for free at [The Taggart Institute](https://taggartinstitute.org).
