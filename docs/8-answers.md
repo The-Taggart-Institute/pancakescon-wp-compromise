@@ -8,7 +8,7 @@ Let's start with the answers to the big questions.
 
 ### 1. When did the attack take place?
 
-The attack took place between Mar 4, 2023 @ 22:29:15.000 (first URL hit) and Mar 4, 2023 @ 22:50:07.00 (last command run).
+The attack took place between Mar 5, 2023 @ 06:29:15.000 UTC (first URL hit) and Mar 4, 2023 @ 06:50:07.00 (last command run).
 
 ### 2. How did the attackers gain initial access to the site?
 
@@ -38,7 +38,7 @@ But the easiest, most obvious preventive measure? A password stronger than `Whis
 
 **What day shows a major spike in HTTP requests?**
 
-March 4, 2022
+March 5, 2022, UTC
 
 **What hour shows a spike in HTTP requests?**
 
@@ -46,12 +46,12 @@ March 4, 2022
 
 **When did the activity burst start?**
 
-Mar 4, 2023 @ 22:27:03.000
+Mar 5, 2023 @ 06:27:03.000 UTC
 
 
 **When did the activity burst end?**
 
-Mar 4, 2023 @ 22:30:54.000
+Mar 5, 2023 @ 06:30:54.000 UTC
 
 **How many requests for `wp-login.php` were there in this timeframe?**
 
